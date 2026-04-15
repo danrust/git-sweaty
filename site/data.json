@@ -5840,6 +5840,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18105197137",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 15,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18109936039",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 7,
+      "name": "Humidity is back!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18117777028",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11499,6 +11517,15 @@
           "distance": 6448.1,
           "elevation_gain": 50.6,
           "moving_time": 2595.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18117777028"
+          ],
+          "count": 1,
+          "distance": 8048.3,
+          "elevation_gain": 26.6,
+          "moving_time": 3324.0
         }
       },
       "Snowboard": {
@@ -11640,10 +11667,21 @@
           "elevation_gain": 33.4,
           "moving_time": 3734.0
         }
+      },
+      "WeightTraining": {
+        "2026-04-14": {
+          "activity_ids": [
+            "18109936039"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2576.0
+        }
       }
     }
   },
-  "generated_at": "2026-04-14T16:11:04.373703+00:00",
+  "generated_at": "2026-04-15T16:08:42.172933+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
