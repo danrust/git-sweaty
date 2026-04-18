@@ -5858,6 +5858,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18117777028",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 10,
+      "name": "Dash and Dine: Neptune Diner",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18160212271",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11526,6 +11535,15 @@
           "distance": 8048.3,
           "elevation_gain": 26.6,
           "moving_time": 3324.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18160212271"
+          ],
+          "count": 1,
+          "distance": 12882.5,
+          "elevation_gain": 118.0,
+          "moving_time": 4729.0
         }
       },
       "Snowboard": {
@@ -11681,7 +11699,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T16:04:00.807733+00:00",
+  "generated_at": "2026-04-18T15:41:05.444149+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",

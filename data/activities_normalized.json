@@ -8461,5 +8461,18 @@
     "start_date_local": "2026-04-15T07:35:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 12882.5,
+    "elevation_gain": 118.0,
+    "id": "18160212271",
+    "moving_time": 4729.0,
+    "name": "Dash and Dine: Neptune Diner",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T10:08:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
