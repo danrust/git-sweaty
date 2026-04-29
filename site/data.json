@@ -5885,6 +5885,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18203934288",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18295551904",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 17,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18298056240",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11580,6 +11598,15 @@
           "distance": 4829.9,
           "elevation_gain": 23.6,
           "moving_time": 1802.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18295551904"
+          ],
+          "count": 1,
+          "distance": 8055.7,
+          "elevation_gain": 35.4,
+          "moving_time": 3002.0
         }
       },
       "Snowboard": {
@@ -11731,11 +11758,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2576.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18298056240"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1096.0
         }
       }
     }
   },
-  "generated_at": "2026-04-28T16:56:00.015182+00:00",
+  "generated_at": "2026-04-29T16:44:27.672736+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
