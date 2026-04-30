@@ -5903,6 +5903,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18298056240",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18319118039",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11607,6 +11616,15 @@
           "distance": 8055.7,
           "elevation_gain": 35.4,
           "moving_time": 3002.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18319118039"
+          ],
+          "count": 1,
+          "distance": 9673.0,
+          "elevation_gain": 82.0,
+          "moving_time": 3308.0
         }
       },
       "Snowboard": {
@@ -11771,7 +11789,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T16:44:27.672736+00:00",
+  "generated_at": "2026-04-30T16:23:00.647810+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
