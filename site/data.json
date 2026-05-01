@@ -5912,6 +5912,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18319118039",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 10,
+      "name": "Recovery 4",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18334252287",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11625,6 +11634,15 @@
           "distance": 9673.0,
           "elevation_gain": 82.0,
           "moving_time": 3308.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18334252287"
+          ],
+          "count": 1,
+          "distance": 6443.5,
+          "elevation_gain": 67.8,
+          "moving_time": 2505.0
         }
       },
       "Snowboard": {
@@ -11789,7 +11807,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:23:00.647810+00:00",
+  "generated_at": "2026-05-01T16:00:22.395907+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
