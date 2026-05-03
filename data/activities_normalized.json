@@ -8552,5 +8552,18 @@
     "start_date_local": "2026-05-01T10:24:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 8057.4,
+    "elevation_gain": 82.4,
+    "id": "18349953460",
+    "moving_time": 2950.0,
+    "name": "Post hot pot trot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T13:07:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

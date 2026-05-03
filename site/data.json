@@ -5921,6 +5921,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18334252287",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 13,
+      "name": "Post hot pot trot",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18349953460",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11643,6 +11652,15 @@
           "distance": 6443.5,
           "elevation_gain": 67.8,
           "moving_time": 2505.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18349953460"
+          ],
+          "count": 1,
+          "distance": 8057.4,
+          "elevation_gain": 82.4,
+          "moving_time": 2950.0
         }
       },
       "Snowboard": {
@@ -11807,7 +11825,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:51:47.094971+00:00",
+  "generated_at": "2026-05-03T15:52:10.077369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
