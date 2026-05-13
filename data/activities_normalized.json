@@ -8630,5 +8630,18 @@
     "start_date_local": "2026-05-12T10:14:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 8050.3,
+    "elevation_gain": 74.0,
+    "id": "18491591560",
+    "moving_time": 3101.0,
+    "name": "Recovery 5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T09:52:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
