@@ -6020,6 +6020,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18615672970",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 7,
+      "name": "Wet Mosquito Magnet",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18629117879",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11832,6 +11841,15 @@
           "distance": 9673.8,
           "elevation_gain": 40.6,
           "moving_time": 3432.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18629117879"
+          ],
+          "count": 1,
+          "distance": 14528.8,
+          "elevation_gain": 72.4,
+          "moving_time": 5362.0
         }
       },
       "Snowboard": {
@@ -12005,7 +12023,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T16:04:27.880824+00:00",
+  "generated_at": "2026-05-24T16:03:48.083172+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",

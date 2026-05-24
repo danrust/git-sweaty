@@ -8695,5 +8695,18 @@
     "start_date_local": "2026-05-23T07:50:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 14528.8,
+    "elevation_gain": 72.4,
+    "id": "18629117879",
+    "moving_time": 5362.0,
+    "name": "Wet Mosquito Magnet",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T07:26:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
