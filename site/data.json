@@ -6029,6 +6029,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18629117879",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18669181832",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 7,
+      "name": "Recovery 5",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18669782896",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11850,6 +11868,24 @@
           "distance": 14528.8,
           "elevation_gain": 72.4,
           "moving_time": 5362.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18669181832"
+          ],
+          "count": 1,
+          "distance": 11280.0,
+          "elevation_gain": 57.4,
+          "moving_time": 4287.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18669782896"
+          ],
+          "count": 1,
+          "distance": 8064.8,
+          "elevation_gain": 51.6,
+          "moving_time": 3235.0
         }
       },
       "Snowboard": {
@@ -12023,7 +12059,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:57:08.937607+00:00",
+  "generated_at": "2026-05-27T17:58:00.273956+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
