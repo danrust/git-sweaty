@@ -8747,5 +8747,18 @@
     "start_date_local": "2026-05-29T07:47:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 19320.1,
+    "elevation_gain": 153.8,
+    "id": "18730760465",
+    "moving_time": 7374.0,
+    "name": "We are so back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T08:59:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
