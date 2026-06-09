@@ -8760,5 +8760,18 @@
     "start_date_local": "2026-05-31T08:59:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 8059.4,
+    "elevation_gain": 33.8,
+    "id": "18851733326",
+    "moving_time": 2575.0,
+    "name": "First tempo in 6 months",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T10:22:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
