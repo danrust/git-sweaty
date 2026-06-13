@@ -8799,5 +8799,18 @@
     "start_date_local": "2026-06-11T08:53:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 4836.7,
+    "elevation_gain": 20.6,
+    "id": "18905985269",
+    "moving_time": 1792.0,
+    "name": "Recovery 3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T11:37:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
