@@ -8825,5 +8825,18 @@
     "start_date_local": "2026-06-16T06:37:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 11275.7,
+    "elevation_gain": 107.4,
+    "id": "18971252648",
+    "moving_time": 4024.0,
+    "name": "Knicks Parade Day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T07:58:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
