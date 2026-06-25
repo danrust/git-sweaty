@@ -8877,5 +8877,18 @@
     "start_date_local": "2026-06-23T18:21:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 6444.0,
+    "elevation_gain": 55.2,
+    "id": "19055160269",
+    "moving_time": 5047.0,
+    "name": "Post work aimless saunter",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-24T17:17:45Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
