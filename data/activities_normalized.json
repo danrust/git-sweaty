@@ -8929,5 +8929,18 @@
     "start_date_local": "2026-06-28T16:24:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 11275.8,
+    "elevation_gain": 40.2,
+    "id": "19123981303",
+    "moving_time": 3997.0,
+    "name": "Commute from Breakfast",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T08:41:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
