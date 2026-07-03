@@ -8942,5 +8942,18 @@
     "start_date_local": "2026-06-30T08:41:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 14486.9,
+    "elevation_gain": 80.0,
+    "id": "19163963705",
+    "moving_time": 5942.0,
+    "name": "Pats last dash and dine until 2027",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T08:05:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
