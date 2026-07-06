@@ -8955,5 +8955,18 @@
     "start_date_local": "2026-07-03T08:05:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 8055.6,
+    "elevation_gain": 79.6,
+    "id": "19191722430",
+    "moving_time": 3253.0,
+    "name": "Easy 5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T11:20:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
