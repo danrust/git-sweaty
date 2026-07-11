@@ -8994,5 +8994,18 @@
     "start_date_local": "2026-07-10T07:30:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 3338.7,
+    "elevation_gain": 28.2,
+    "id": "19270668244",
+    "moving_time": 1272.0,
+    "name": "Friendship pre beach",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T10:54:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
