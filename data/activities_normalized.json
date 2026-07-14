@@ -9007,5 +9007,18 @@
     "start_date_local": "2026-07-11T10:54:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 11269.0,
+    "elevation_gain": 99.6,
+    "id": "19310469577",
+    "moving_time": 4212.0,
+    "name": "Gorgeous day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T09:48:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -6236,6 +6236,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19270668244",
       "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 9,
+      "name": "Gorgeous day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19310469577",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12246,6 +12255,15 @@
           "distance": 3338.7,
           "elevation_gain": 28.2,
           "moving_time": 1272.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19310469577"
+          ],
+          "count": 1,
+          "distance": 11269.0,
+          "elevation_gain": 99.6,
+          "moving_time": 4212.0
         }
       },
       "Snowboard": {
@@ -12437,7 +12455,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T17:15:05.862096+00:00",
+  "generated_at": "2026-07-14T16:18:18.659258+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
