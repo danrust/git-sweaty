@@ -9020,5 +9020,18 @@
     "start_date_local": "2026-07-14T09:48:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 6442.4,
+    "elevation_gain": 22.6,
+    "id": "19329498739",
+    "moving_time": 2252.0,
+    "name": "Wildfire smoke +heat + humidity",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T18:15:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
