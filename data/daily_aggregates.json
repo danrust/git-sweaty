@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:24:43.017518+00:00",
+  "generated_at": "2026-07-22T16:21:34.600959+00:00",
   "years": {
     "2021": {
       "Ride": {
@@ -6026,6 +6026,15 @@
           "distance": 6442.4,
           "elevation_gain": 22.6,
           "moving_time": 2252.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19419095223"
+          ],
+          "count": 1,
+          "distance": 11273.6,
+          "elevation_gain": 29.4,
+          "moving_time": 4121.0
         }
       },
       "Snowboard": {
