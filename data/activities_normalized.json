@@ -9098,5 +9098,31 @@
     "start_date_local": "2026-07-28T15:41:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 12894.6,
+    "elevation_gain": 102.6,
+    "id": "19533012837",
+    "moving_time": 4479.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-30T13:32:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 6446.9,
+    "elevation_gain": 15.0,
+    "id": "19543285997",
+    "moving_time": 2317.0,
+    "name": "Recovery ish 4",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T09:48:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

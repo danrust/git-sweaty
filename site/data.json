@@ -6299,6 +6299,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19505951663",
       "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 13,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19533012837",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 9,
+      "name": "Recovery ish 4",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19543285997",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12372,6 +12390,24 @@
           "distance": 9668.3,
           "elevation_gain": 93.2,
           "moving_time": 3375.0
+        },
+        "2026-07-30": {
+          "activity_ids": [
+            "19533012837"
+          ],
+          "count": 1,
+          "distance": 12894.6,
+          "elevation_gain": 102.6,
+          "moving_time": 4479.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19543285997"
+          ],
+          "count": 1,
+          "distance": 6446.9,
+          "elevation_gain": 15.0,
+          "moving_time": 2317.0
         }
       },
       "Snowboard": {
@@ -12563,7 +12599,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T16:37:47.920751+00:00",
+  "generated_at": "2026-07-31T16:47:19.992436+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
