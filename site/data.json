@@ -6317,6 +6317,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19543285997",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 8,
+      "name": "Pre-Beach",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19556315517",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12408,6 +12417,15 @@
           "distance": 6446.9,
           "elevation_gain": 15.0,
           "moving_time": 2317.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19556315517"
+          ],
+          "count": 1,
+          "distance": 9661.2,
+          "elevation_gain": 23.2,
+          "moving_time": 3822.0
         }
       },
       "Snowboard": {
@@ -12599,7 +12617,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:47:19.992436+00:00",
+  "generated_at": "2026-08-01T16:03:02.011653+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",

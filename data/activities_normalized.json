@@ -9124,5 +9124,18 @@
     "start_date_local": "2026-07-31T09:48:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 9661.2,
+    "elevation_gain": 23.2,
+    "id": "19556315517",
+    "moving_time": 3822.0,
+    "name": "Pre-Beach",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T08:01:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
