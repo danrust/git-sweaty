@@ -9137,5 +9137,31 @@
     "start_date_local": "2026-08-01T08:01:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 4831.9,
+    "elevation_gain": 15.4,
+    "id": "19570547436",
+    "moving_time": 1680.0,
+    "name": "BK mile warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T09:29:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 1673.3,
+    "elevation_gain": 11.2,
+    "id": "19571128580",
+    "moving_time": 357.0,
+    "name": "Brooklyn Mile - 5:46",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T10:29:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
