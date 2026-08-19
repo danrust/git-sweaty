@@ -9254,5 +9254,18 @@
     "start_date_local": "2026-08-15T09:10:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 12881.2,
+    "elevation_gain": 99.4,
+    "id": "19801331667",
+    "moving_time": 4871.0,
+    "name": "Red Hook + Prospect",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T17:51:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
