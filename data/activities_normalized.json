@@ -9306,5 +9306,18 @@
     "start_date_local": "2026-08-23T12:07:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 12889.4,
+    "elevation_gain": 93.8,
+    "id": "19900632594",
+    "moving_time": 4604.0,
+    "name": "Baby Speedwork",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T18:07:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

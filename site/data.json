@@ -6443,6 +6443,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19868349312",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 18,
+      "name": "Baby Speedwork",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19900632594",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12652,6 +12661,15 @@
           "distance": 8061.8,
           "elevation_gain": 33.0,
           "moving_time": 3106.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19900632594"
+          ],
+          "count": 1,
+          "distance": 12889.4,
+          "elevation_gain": 93.8,
+          "moving_time": 4604.0
         }
       },
       "Snowboard": {
@@ -12843,7 +12861,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T15:44:11.259551+00:00",
+  "generated_at": "2026-08-26T16:20:04.879030+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
