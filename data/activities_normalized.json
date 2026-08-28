@@ -9332,5 +9332,18 @@
     "start_date_local": "2026-08-27T10:21:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 6447.6,
+    "elevation_gain": 37.2,
+    "id": "19939251396",
+    "moving_time": 2313.0,
+    "name": "Pre-Greenpoint Fish & Lobster",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T12:38:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
