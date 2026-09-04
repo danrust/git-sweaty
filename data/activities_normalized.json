@@ -9384,5 +9384,18 @@
     "start_date_local": "2026-09-02T09:40:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 6448.2,
+    "elevation_gain": 22.2,
+    "id": "20028678878",
+    "moving_time": 2471.0,
+    "name": "Before Sunrise (1995)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-04T05:30:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

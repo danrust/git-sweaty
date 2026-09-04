@@ -6497,6 +6497,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20006172753",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 5,
+      "name": "Before Sunrise (1995)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20028678878",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12760,6 +12769,15 @@
           "distance": 6446.4,
           "elevation_gain": 8.6,
           "moving_time": 2438.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20028678878"
+          ],
+          "count": 1,
+          "distance": 6448.2,
+          "elevation_gain": 22.2,
+          "moving_time": 2471.0
         }
       },
       "Snowboard": {
@@ -12951,7 +12969,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:24:42.549743+00:00",
+  "generated_at": "2026-09-04T18:11:44.879371+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
