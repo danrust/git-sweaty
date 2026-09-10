@@ -9449,5 +9449,18 @@
     "start_date_local": "2026-09-08T08:40:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 12890.0,
+    "elevation_gain": 70.2,
+    "id": "20113058922",
+    "moving_time": 4386.0,
+    "name": "Donkey Shone",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T08:23:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
