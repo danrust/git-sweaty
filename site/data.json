@@ -6596,6 +6596,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20229160506",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20243208420",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12960,6 +12969,15 @@
           "distance": 16103.9,
           "elevation_gain": 101.6,
           "moving_time": 6077.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20243208420"
+          ],
+          "count": 1,
+          "distance": 6446.7,
+          "elevation_gain": 22.6,
+          "moving_time": 2387.0
         }
       },
       "Snowboard": {
@@ -13151,7 +13169,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T18:09:06.277035+00:00",
+  "generated_at": "2026-09-19T17:50:38.837530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
