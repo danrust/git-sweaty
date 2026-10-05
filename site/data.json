@@ -13083,9 +13083,9 @@
             "20451183966"
           ],
           "count": 1,
-          "distance": 19330.3,
+          "distance": 19343.4,
           "elevation_gain": 115.4,
-          "moving_time": 6450.0
+          "moving_time": 6445.0
         }
       },
       "Snowboard": {
@@ -13277,7 +13277,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:34:02.120962+00:00",
+  "generated_at": "2026-10-05T21:53:41.371767+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
