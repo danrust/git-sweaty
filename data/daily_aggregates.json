@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:29:27.808041+00:00",
+  "generated_at": "2026-10-08T20:33:18.503249+00:00",
   "years": {
     "2021": {
       "Ride": {
@@ -5411,6 +5411,17 @@
           "distance": 4107.8,
           "elevation_gain": 147.0,
           "moving_time": 3830.0
+        }
+      },
+      "PhysicalTherapy": {
+        "2026-10-07": {
+          "activity_ids": [
+            "20497017728"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5518.0
         }
       },
       "Ride": {
