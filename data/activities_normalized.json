@@ -9670,5 +9670,44 @@
     "start_date_local": "2026-10-18T11:16:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 3225.5,
+    "elevation_gain": 7.2,
+    "id": "20756860051",
+    "moving_time": 1172.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T16:57:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 8855.3,
+    "elevation_gain": 39.8,
+    "id": "20757986264",
+    "moving_time": 1705.0,
+    "name": "New Bike Goofin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-27T18:29:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 13231.3,
+    "elevation_gain": 117.0,
+    "id": "20767477211",
+    "moving_time": 2277.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-28T12:17:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
