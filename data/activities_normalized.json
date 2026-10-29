@@ -9709,5 +9709,18 @@
     "start_date_local": "2026-10-28T12:17:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 12170.7,
+    "elevation_gain": 103.6,
+    "id": "20778874725",
+    "moving_time": 2719.0,
+    "name": "Leisurely before breakfast",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-29T09:18:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

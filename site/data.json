@@ -6722,6 +6722,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20767477211",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 9,
+      "name": "Leisurely before breakfast",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20778874725",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12175,6 +12184,15 @@
           "distance": 13231.3,
           "elevation_gain": 117.0,
           "moving_time": 2277.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20778874725"
+          ],
+          "count": 1,
+          "distance": 12170.7,
+          "elevation_gain": 103.6,
+          "moving_time": 2719.0
         }
       },
       "Run": {
@@ -13405,7 +13423,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T20:07:52.169009+00:00",
+  "generated_at": "2026-10-29T20:06:17.483555+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
