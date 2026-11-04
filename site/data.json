@@ -6731,6 +6731,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20778874725",
       "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20849057762",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20850265444",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20851653999",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12193,6 +12220,17 @@
           "distance": 12170.7,
           "elevation_gain": 103.6,
           "moving_time": 2719.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20849057762",
+            "20850265444",
+            "20851653999"
+          ],
+          "count": 3,
+          "distance": 42179.5,
+          "elevation_gain": 219.79999999999998,
+          "moving_time": 8393.0
         }
       },
       "Run": {
@@ -13423,7 +13461,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:49:43.044528+00:00",
+  "generated_at": "2026-11-04T21:06:08.450787+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
