@@ -6785,6 +6785,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21026557286",
       "year": 2026
+    },
+    {
+      "date": "2026-11-21",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21073210693",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12258,6 +12267,15 @@
           "distance": 42179.5,
           "elevation_gain": 219.79999999999998,
           "moving_time": 8393.0
+        },
+        "2026-11-21": {
+          "activity_ids": [
+            "21073210693"
+          ],
+          "count": 1,
+          "distance": 27728.0,
+          "elevation_gain": 163.0,
+          "moving_time": 4744.0
         }
       },
       "Run": {
@@ -13515,7 +13533,7 @@
       }
     }
   },
-  "generated_at": "2026-11-20T22:09:50.108599+00:00",
+  "generated_at": "2026-11-21T20:49:09.691792+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
