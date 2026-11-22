@@ -6794,6 +6794,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21073210693",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 9,
+      "name": "Turkey trot + 5.5mi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21085472625",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13342,6 +13351,15 @@
           "distance": 8061.4,
           "elevation_gain": 19.0,
           "moving_time": 2729.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21085472625"
+          ],
+          "count": 1,
+          "distance": 13367.3,
+          "elevation_gain": 71.0,
+          "moving_time": 4718.0
         }
       },
       "Snowboard": {
@@ -13533,7 +13551,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:49:09.691792+00:00",
+  "generated_at": "2026-11-22T20:57:19.269153+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/87033848",
   "repo": "danrust/git-sweaty",
